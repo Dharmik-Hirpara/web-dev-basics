@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8"> 
 
-    <title>Document</title>
+    <title>Documen</title>
 </head>
 <body>
     <form method = "post">
